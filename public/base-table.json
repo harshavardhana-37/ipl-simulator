@@ -1,0 +1,12 @@
+[
+  { "name": "PBKS", "played": 5, "won": 4, "lost": 0, "points": 9, "nrr": 1.067 },
+  { "name": "RCB", "played": 5, "won": 4, "lost": 1, "points": 8, "nrr": 1.503 },
+  { "name": "RR", "played": 5, "won": 4, "lost": 1, "points": 8, "nrr": 0.889 },
+  { "name": "GT", "played": 5, "won": 3, "lost": 2, "points": 6, "nrr": 0.018 },
+  { "name": "SRH", "played": 5, "won": 2, "lost": 3, "points": 4, "nrr": 0.576 },
+  { "name": "DC", "played": 4, "won": 2, "lost": 2, "points": 4, "nrr": 0.322 },
+  { "name": "LSG", "played": 5, "won": 2, "lost": 3, "points": 4, "nrr": -0.804 },
+  { "name": "CSK", "played": 5, "won": 2, "lost": 3, "points": 4, "nrr": -0.846 },
+  { "name": "MI", "played": 5, "won": 1, "lost": 4, "points": 2, "nrr": -1.076 },
+  { "name": "KKR", "played": 6, "won": 0, "lost": 5, "points": 1, "nrr": -1.149 }
+]
