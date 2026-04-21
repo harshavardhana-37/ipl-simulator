@@ -8,7 +8,7 @@ A dynamic IPL match simulator built using React that allows users to simulate ma
 
 ## 🚀 Live Demo
 
-👉 https://your-vercel-link.vercel.app
+👉[ https://your-vercel-link.vercel.app](https://ipl-simulator-seven.vercel.app/)
 
 ---
 
